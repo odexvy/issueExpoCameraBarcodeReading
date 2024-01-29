@@ -23,5 +23,5 @@
     "@types/react-native": "^0.73.0",
     "typescript": "^5.1.3"
   },
-  "private": true
+  "private": false
 }
